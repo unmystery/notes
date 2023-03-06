@@ -1,6 +1,6 @@
 export default {
     // 基本路径
-    base: '/Note-Library/',
+    base: '/notes/',
     // 主题配置
     themeConfig: {
         // logo 设置
